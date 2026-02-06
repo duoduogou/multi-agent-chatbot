@@ -1,0 +1,12 @@
+This folder is reserved for the large model files (GGUF splits).
+
+To get the system running, please copy your model files here:
+1. gpt-oss-120b-mxfp4-00001-of-00003.gguf
+2. gpt-oss-120b-mxfp4-00002-of-00003.gguf
+3. gpt-oss-120b-mxfp4-00003-of-00003.gguf
+4. Qwen2-VL-2B-Instruct-Q4_K_M.gguf
+5. mmproj-Qwen2-VL-2B-Instruct-f16.gguf
+6. qwen2.5-coder-1.5b-instruct-q4_k_m.gguf
+7. qwen2.5-1.5b-instruct-q4_k_m.gguf
+
+Refer to the root README.md for more details.

@@ -1,0 +1,38 @@
+# Python
+**/__pycache__/
+**/*.py[cod]
+**/*.pyc
+.env
+.venv
+env/
+venv/
+.DS_Store
+
+# Docker volumes
+assets/volumes/
+
+# User uploads & indices
+assets/backend/uploads/
+assets/backend/indices/
+assets/backend/config.json
+
+# Large models
+assets/models/*.gguf
+assets/models/*.bin
+assets/models/.cache/
+
+# Frontend
+assets/frontend/node_modules/
+assets/frontend/.next/
+assets/frontend/build/
+
+# IDE/Agent specific
+.gemini/
+.agent/
+**/brain/
+image_*.png
+recording_*.webp
+*.log
+
+# Large archives
+*.zip
