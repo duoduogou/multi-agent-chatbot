@@ -8,12 +8,9 @@ env/
 venv/
 .DS_Store
 
-# Docker volumes
-assets/volumes/
 
 # User indices (auto-generated)
 assets/backend/indices/
-assets/backend/config.json
 
 # Large models
 assets/models/*.gguf

@@ -6,7 +6,6 @@ __pycache__/
 .venv
 env/
 venv/
-volumes/
 *.pyc
 .DS_Store
 app.log
@@ -15,7 +14,6 @@ models/*.gguf
 models/*.bin
 models/.cache/
 backend/.python-version
-backend/config.json
 
 # frontend
 frontend/node_modules/
