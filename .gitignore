@@ -11,8 +11,7 @@ venv/
 # Docker volumes
 assets/volumes/
 
-# User uploads & indices
-assets/backend/uploads/
+# User indices (auto-generated)
 assets/backend/indices/
 assets/backend/config.json
 

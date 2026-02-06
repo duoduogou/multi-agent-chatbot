@@ -10,7 +10,6 @@ volumes/
 *.pyc
 .DS_Store
 app.log
-uploads/
 indices/
 models/*.gguf
 models/*.bin
